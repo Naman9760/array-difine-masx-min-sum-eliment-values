@@ -1,0 +1,1 @@
+# array-difine-masx-min-sum-eliment-values
